@@ -1,0 +1,23 @@
+{
+	"name": "SnehaTesing",
+	"properties": {
+		"activities": [
+			{
+				"name": "Set variable1",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "EmpName",
+					"value": "SnehaGENew"
+				}
+			}
+		],
+		"variables": {
+			"EmpName": {
+				"type": "String"
+			}
+		},
+		"annotations": []
+	}
+}
